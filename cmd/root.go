@@ -9,10 +9,10 @@ import (
 
 var rootCmd = &cobra.Command{
 	Use:   "hello",
-	Short: "hello is a very fast static site generator",
+	Short: "Hello world!",
 	Long: `A Fast and Flexible Static Site Generator built with
 				  love by spf13 and friends in Go.
-				  Complete documentation is available at ...`,
+				  Complete documentation is available at https://github.com/boywei/hello.git`,
 	Run: func(cmd *cobra.Command, args []string) {
 		// Do Stuff Here
 		fmt.Println("Hello, cobra!")
