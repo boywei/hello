@@ -1,9 +1,12 @@
-# test-cobra
+# hello
 
-## export path
-
+## install
 ```bash
-// export PATH=$PATH:THE/WAY/TO/YOUR/PROJECT
-// example
-export HELLO_PATH=~/GoProjects/test-cobra
+go install github.com/boywei/hello
+```
+## example
+```bash
+hello version
+// output
+// hello v0.0 -- by boywei
 ```

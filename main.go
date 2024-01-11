@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/boywei/test-cobra/cmd"
+	"github.com/boywei/hello/cmd"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/boywei/test-cobra
+module github.com/boywei/hello
 
 go 1.20
 
